@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/add_logo.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/barbg.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/bg.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/bg1.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/bg2.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/bg_all_chats.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/bg_chat.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/bg_logout.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/bgstyle.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/buttons.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/chitchatbg.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/goback.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/groupbox.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/inputs.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/logout_bg.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/logoutddd.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/profilebg.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/profilebuttons.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/profileinputs.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/tablayout_bg.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/drawable/usersbg.xml" value="0.2203125" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/activity_account.xml" value="0.22" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/activity_chat.xml" value="0.33" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/activity_forget_pass.xml" value="0.25" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/add_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/chats.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/fragment_blank.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/fragment_chats.xml" value="0.16" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/fragment_groups_chat.xml" value="0.25" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/fragment_signup.xml" value="0.25" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/fragment_users.xml" value="0.22" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/group_review.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/groups.xml" value="0.25" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/login_frag.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/one_one_chats.xml" value="0.33" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/signup_frag.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/styleeeee.xml" value="0.22" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/users_review.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/layout/users_sample.xml" value="0.33" />
+        <entry key="..\:/Projects/ChitChatApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
